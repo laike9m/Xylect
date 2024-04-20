@@ -1,4 +1,5 @@
 import type { MetaFunction } from "@remix-run/cloudflare";
+import { Tooltip, Button } from "flowbite-react";
 
 export const meta: MetaFunction = () => {
   return [
@@ -12,21 +13,20 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix (with Vite and Cloudflare)</h1>
+    <div>
+      <h1>Welcome to Remix</h1>
+      <Tooltip content="Flowbite is awesome">
+        <Button>Hover to find out</Button>
+      </Tooltip>
       <ul>
         <li>
           <a
             target="_blank"
-            href="https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/"
+            href="https://flowbite.com/getting-started/remix/"
             rel="noreferrer"
+            className="text-lg text-blue-600 hover:underline"
           >
-            Cloudflare Pages Docs - Remix guide
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs
+            Flowbite + Remix + Tailwind CSS Tutorial
           </a>
         </li>
       </ul>
