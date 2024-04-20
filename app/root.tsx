@@ -1,8 +1,6 @@
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
-import type { LinksFunction } from "@remix-run/cloudflare";
-import CSS from "./app.css?url";
+import  "./app.css";
 
-export const links: LinksFunction = () => [{ rel: "stylesheet", href: CSS }];
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
