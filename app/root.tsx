@@ -1,4 +1,5 @@
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
+import WebsiteHeader from "./components/WebsiteHeader";
 import "./app.css";
 
 export function Layout({ children }: { children: React.ReactNode }) {
@@ -10,6 +11,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
       </head>
+      <WebsiteHeader />
       <body>
         {children}
         <ScrollRestoration />

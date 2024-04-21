@@ -7,4 +7,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
   plugins: [remixCloudflareDevProxy(), remix(), tsconfigPaths()],
+  server: {
+    host: "0.0.0.0",
+  },
 });
