@@ -8,7 +8,7 @@
             <sparkle:version>0.2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://laike9m.github.io/Xylect/Xylect%200.2.dmg" length="2399533" type="application/octet-stream" sparkle:edSignature="uc6dX5MOaqi+1QXqxmFknfBJ91NAIW9MYY9vrAMVkzBzJ+JJhimRIZBcKNGHNX/mtptwP1qsx6bPuiLQsHcICA=="/>
+            <enclosure url="https://github.com/laike9m/Xylect/releases/download/prod/Xylect.0.2.dmg" length="2399533" type="application/octet-stream" sparkle:edSignature="uc6dX5MOaqi+1QXqxmFknfBJ91NAIW9MYY9vrAMVkzBzJ+JJhimRIZBcKNGHNX/mtptwP1qsx6bPuiLQsHcICA=="/>
         </item>
         <item>
             <title>0.1</title>
