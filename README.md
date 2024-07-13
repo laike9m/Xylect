@@ -1,6 +1,6 @@
 ## Install
 
-Double click the DMG, drag Xylect into the Applications folder.
+Download [here](https://github.com/laike9m/Xylect/releases/latest/download/xylect.zip). Double click the DMG, and drag Xylect into the Applications folder.
 
 ## Buy
 
