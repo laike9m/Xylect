@@ -2,12 +2,6 @@
 
 Double click the DMG, drag Xylect into the Applications folder.
 
-To launch Xylect, **<u>right click</u> on Xylect's icon in the Applications folder, and choose "Open".**
-
-Double clicking will produce the following error:
-
-<img width="276" src="https://github.com/laike9m/images/assets/2592205/eac32748-6d48-4b73-aad3-83f34f39dfa1">
-
 ## Buy
 
 You need to [buy](https://xylect.app/?buy) Xylect to use it.
