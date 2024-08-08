@@ -3,6 +3,14 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.4.4</title>
+            <pubDate>Thu, 08 Aug 2024 01:03:07 -0700</pubDate>
+            <sparkle:version>1.4.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.4.4/Xylect-1.4.4.dmg" length="6701661" type="application/octet-stream" sparkle:edSignature="7oUTpBiCoe+peqJU9Mn5CWBkG8+Ldd8NQyJHDKukPuZoduV6+dLsAdVZXiZLvBjMGkN46pR+aG8QRxtNbV4hBw=="/>
+        </item>
+        <item>
             <title>1.4.3</title>
             <pubDate>Wed, 07 Aug 2024 00:01:21 -0700</pubDate>
             <sparkle:version>1.4.3</sparkle:version>
@@ -33,14 +41,6 @@
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.4/Xylect-1.4.dmg" length="6672645" type="application/octet-stream" sparkle:edSignature="g1G+gSKqu8WSrm3i06VufRXtg1DuAeXApD7x4FEE+7nU4ruwpWU3eJMTqsUHapsvvp16rfn+pHUQFdlFekeZCg=="/>
-        </item>
-        <item>
-            <title>1.3.4</title>
-            <pubDate>Tue, 30 Jul 2024 08:57:23 -0700</pubDate>
-            <sparkle:version>1.3.4</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.3.4/Xylect-1.3.4.dmg" length="6514268" type="application/octet-stream" sparkle:edSignature="izcL3q/cEDosZcnrcR9xrcSlYRdQG9i6Jh1qk5n2vcHLXy9GHs4SHIXrE2z4xQaOFAh00r0CXXydlI3waTsAAA=="/>
         </item>
     </channel>
 </rss>
