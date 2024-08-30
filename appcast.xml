@@ -6,9 +6,9 @@
             <title>1.6.1</title>
             <pubDate>Sun, 25 Aug 2024 23:36:24 -0700</pubDate>
             <sparkle:version>1.6.1</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.6.1/Xylect-1.6.1.dmg" length="6994330" type="application/octet-stream" sparkle:edSignature="lgtZ50ahzMe6+y+nGqih+wy7xVMkjvXkeIsLaZdq2t7S7sKEkyfgM3SCn1jg6CK8ixyXctYbCktKLoOekWCxBQ=="/>
+            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.6.2/Xylect-1.6.2.dmg" length="6998997" type="application/octet-stream" sparkle:edSignature="9+tVtT/hFkcPkidWBsUV2HATRnVnkE6QfHagFf/iQsetv+R74eNMMhdNWn+XH5bqTTJ8cwRVl64TL7bWoFUGBg=="/>
         </item>
         <item>
             <title>1.6</title>
