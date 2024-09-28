@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://xylect.app</loc>
+    <lastmod>2024-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://xylect.app/assets/images/image03.jpg</image:loc>
+      <image:title>Reddit comment</image:title>
+      <image:caption>Example of a Reddit comment displayed in Xylect</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xylect.app/assets/images/image02.gif</image:loc>
+      <image:title>Search the term "Akira Toriyama" using Xylect</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://xylect.app/blog</loc>
+    <lastmod>2024-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog posts -->
+  <url>
+    <loc>https://xylect.app/blog/xylect-vs-other-tools</loc>
+    <lastmod>2024-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
