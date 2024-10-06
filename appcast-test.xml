@@ -8,7 +8,7 @@
             <sparkle:version>1.8.5</sparkle:version>
             <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.8.5/Clicknow-1.8.5.dmg" length="6690769" type="application/octet-stream" sparkle:edSignature="a/7duf2tFcl3GorcYeVKSo1uCvT2i6wGjcJ98ZoY276+fnO9K9X6e8g5ifqgrUxvELNmC+mWtzIn2Xyl77ZPCg=="/>
+            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.8.5/Clicknow-1.8.5.dmg" length="6690779" type="application/octet-stream" sparkle:edSignature="IvUlLaqp+19tkFLZKF2ZuMDc3inOULu6+WMWjjpYwtvLUTqwdRNrsxebBiwNVcLO4kUXys9d1E9FWkWnHTrSAA=="/>
         </item>
         <item>
             <title>1.8.4</title>
