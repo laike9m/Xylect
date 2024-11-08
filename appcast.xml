@@ -3,6 +3,14 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.11.2</title>
+            <pubDate>Thu, 07 Nov 2024 23:41:37 -0800</pubDate>
+            <sparkle:version>1.11.2</sparkle:version>
+            <sparkle:shortVersionString>1.11.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.11.2/Clicknow-1.11.2.dmg" length="6784181" type="application/octet-stream" sparkle:edSignature="GXqoREnLSHlMjOGcQ15xBMVaGFKm/6rD0okCP/h+xvwQANWhUzhxGzn8tk8C4RIGwBcbD39089gZ18Jz5JzqAA=="/>
+        </item>
+        <item>
             <title>1.11.1</title>
             <pubDate>Mon, 04 Nov 2024 23:53:29 -0800</pubDate>
             <sparkle:version>1.11.1</sparkle:version>
@@ -33,14 +41,6 @@
             <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.10/Clicknow-1.10.dmg" length="6793081" type="application/octet-stream" sparkle:edSignature="JFYIVg7zKNUWGQOrx3htRoOC+xs7dq6asppIMhF89MVyLNyyMU9afhDStPbsBeKBaKjblelC9uJQ8C5gekAKDw=="/>
-        </item>
-        <item>
-            <title>1.9.4</title>
-            <pubDate>Sat, 19 Oct 2024 00:27:50 -0700</pubDate>
-            <sparkle:version>1.9.4</sparkle:version>
-            <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.9.4/Clicknow-1.9.4.dmg" length="6736363" type="application/octet-stream" sparkle:edSignature="8/kVdaoQ7u7MzJqaQUXFDSFxnSYHp+FPnWFuhz110Zub+pJ4IxAew/T4hpLD75i7Art1JVZZy+JtDwV650ipBQ=="/>
         </item>
     </channel>
 </rss>
